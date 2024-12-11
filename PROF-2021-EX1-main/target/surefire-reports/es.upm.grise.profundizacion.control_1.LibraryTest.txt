@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.upm.grise.profundizacion.control_1.LibraryTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s - in es.upm.grise.profundizacion.control_1.LibraryTest
